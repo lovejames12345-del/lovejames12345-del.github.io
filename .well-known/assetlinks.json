@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.lovejames12345_del.twa",
+        "sha256_cert_fingerprints": ["47:B8:ED:AF:78:61:7B:C0:9B:CC:B6:62:79:40:FF:1D:38:32:21:FE:F6:22:65:93:12:77:6A:FD:9B:E1:4A:35"]
+      }
+    }]
